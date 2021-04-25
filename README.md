@@ -8,7 +8,7 @@ test_normal_new.csv: data of 200 normal users crawled from one weibo trending ha
 
 test_depressed_new.csv: data of 200 depressed users crawled from depression supertopic for test 1
 
-test_depressed_new2.csv: data of 100 depressed users crawled from a tree hole in depression supertopic for test 2
+test_depressed_new2.csv: data of 100 depressed users crawled from the comments under a tree hole post on depressive order (抑郁症) supertopic for test 2
 
 ## Code
 Data Pre-Processing + Shallow ML + Test Result.ipynb includes data pre-processing, 7 shallow ML training and test results of XGBoost, AdaBoost, and Logistic Regression.
