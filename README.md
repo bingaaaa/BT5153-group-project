@@ -19,7 +19,7 @@ EDA.ipynb includes explotory data analysis.
 
 Xgboost Feature Importance.ipynb includes the feature importance analysis of XGBoost.
 
-To run the BERT model, run_classifier.py should be open, and input the parameters into run configuration. 
+To run the BERT model, run_classifier.py in BERT.zip should be open, and input the parameters into run configuration. 
 
 #############Train parameters
 --task_name=emlo --do_train=true --do_eval=true --data_dir=./glue --vocab_file=./uncased/vocab.txt --bert_config_file=./uncased/bert_config.json --init_checkpoint=./uncased/bert_model.ckpt --max_seq_length=128 --train_batch_size=32 --learning_rate=2e-5 --num_train_epochs=3.0 --output_dir=./tmp/emotion
