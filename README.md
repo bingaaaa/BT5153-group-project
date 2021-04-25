@@ -13,7 +13,7 @@ test_depressed_new2.csv: data of 100 depressed users crawled from a tree hole in
 ## Code
 Data Pre-Processing + Shallow ML + Test Result.ipynb includes data pre-processing, 7 shallow ML training and test results of XGBoost, AdaBoost, and Logistic Regression.
 
-To run the CNN model, run CNN.ipynb with df_clean.csv.
+To run the CNN model, run CNN.ipynb with df_train.csv specified in Data Download Link & Description.docx.
 
 EDA.ipynb includes explotory data analysis.
 
