@@ -1,5 +1,5 @@
 # BT5153-group-project
-Detecting Depression Users in Chinese Microblogs
+Group 12: Detecting Depression Users in Chinese Microblogs
 
 ## data
 Data Download Link & Description.docx: Raw data link + Data description + Pre-processed Training data link
