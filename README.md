@@ -1,7 +1,7 @@
 # BT5153-group-project
 Detecting Depression Users in Chinese Microblogs
 
-## Data
+## data
 Data Download Link & Description.docx: Raw data link + Data description + Pre-processed Training data link
 
 test_normal_new.csv: data of 200 normal users crawled from one weibo trending hashtag for test 1
@@ -10,7 +10,7 @@ test_depressed_new.csv: data of 200 depressed users crawled from depression supe
 
 test_depressed_new2.csv: data of 100 depressed users crawled from the comments under a tree hole post on depressive order (抑郁症) supertopic for test 2
 
-## Code
+## code
 Data Pre-Processing + Shallow ML + Test Result.ipynb includes data pre-processing, 7 shallow ML training and test results of XGBoost, AdaBoost, and Logistic Regression.
 
 To run the CNN model, run CNN.ipynb with df_train.csv specified in Data Download Link & Description.docx.
