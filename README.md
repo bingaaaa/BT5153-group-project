@@ -4,7 +4,7 @@ Detecting Depression Users in Chinese Microblogs
 ## Data
 Data Download Link & Description.docx: Raw data link + Data description + Pre-processed Training data link
 
-test_normal_new.csv: data of 200 normal users crawled from top search for test 1
+test_normal_new.csv: data of 200 normal users crawled from one weibo trending hashtag for test 1
 
 test_depressed_new.csv: data of 200 depressed users crawled from depression supertopic for test 1
 
