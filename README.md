@@ -1,14 +1,16 @@
 # BT5153-group-project
-# Detecting Depression Users in Chinese Microblogs
+Detecting Depression Users in Chinese Microblogs
 
 ## Data
 
 ## Code
-Data Pre-Processing + Shallow ML + Test Result.ipynb
-CNN.ipynb
-BERT.py
-EDA.ipynb
-Xgboost Feature Importance.ipynb
+Data Pre-Processing + Shallow ML + Test Result.ipynb includes data pre-processing, 7 shallow ML training and test results of XGBoost, AdaBoost, and Logistic Regression.
+
+To run the CNN model, run CNN.ipynb with df_clean.csv.
+
+EDA.ipynb includes explotory data analysis.
+
+Xgboost Feature Importance.ipynb includes the feature importance analysis of XGBoost.
 
 To run the BERT model, run_classifier.py should be open, and input the parameters into run configuration. 
 
